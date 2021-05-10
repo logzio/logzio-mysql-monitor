@@ -1,3 +1,6 @@
+This repo will be depreacted soon as it forward metrics to our old metrics solution
+
+
 logzio-mysql-monitor
 =========================
 
